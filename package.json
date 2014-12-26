@@ -1,0 +1,24 @@
+{
+  "name": "elasticsearch-package",
+  "version": "1.4.2",
+  "description": "download elasticsearch package from npm",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:afc163/elasticsearch-package.git"
+  },
+  "keywords": [
+    "elasticsearch",
+    "download",
+    "package",
+    "zip"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afc163/elasticsearch-package/issues"
+  },
+  "homepage": "https://github.com/afc163/elasticsearch-package"
+}
