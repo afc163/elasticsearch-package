@@ -4,4 +4,4 @@
 
 ---
 
-download elasticsearch package from npmjs.org, cause it is too slow sometimes.
+Download elasticsearch package from npmjs.org, cause [elastic.co](https://www.elastic.co/downloads/) is too slow sometimes.

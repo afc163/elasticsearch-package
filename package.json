@@ -1,7 +1,7 @@
 {
   "name": "elasticsearch-package",
-  "version": "1.4.2",
-  "description": "download elasticsearch package from npm",
+  "version": "1.4.3",
+  "description": "Download elasticsearch package from npm",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
